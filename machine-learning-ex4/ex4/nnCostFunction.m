@@ -75,7 +75,6 @@ for i=1:num_labels,
 	end;	
 
 
-%return J;
 
 
 
